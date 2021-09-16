@@ -1,2 +1,2 @@
-# ebook-arduino-junior
+# E-Book Arduino Júnior
 Projetos do Livro Arduino Júnior
